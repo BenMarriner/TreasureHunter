@@ -1,0 +1,12 @@
+// Dev
+BITMAP,TestWall,TestWall.png
+BITMAP,TestFloor,TestFloor.png
+BITMAP,EditorCrosshair,EditorCrosshair.png
+BITMAP,SpawnableTileHighlight,SpawnableTileHighlight.png
+BITMAP,UnspawnableTileHighlight,UnspawnableTileHighlight.png
+BITMAP,PlayerSpawn,PlayerSpawn.png
+BITMAP,EnemySpawn,EnemySpawn.png
+// Items
+BITMAP,Coin,Coin.png
+// Fonts
+FONT,Neon,neon.ttf
